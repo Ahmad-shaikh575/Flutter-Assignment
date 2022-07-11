@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1007940080695",
+    "project_id": "mvvm-25c0e",
+    "storage_bucket": "mvvm-25c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007940080695:android:bae92474a6dd1977ac5bb2",
+        "android_client_info": {
+          "package_name": "com.example.mvvm_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007940080695-c0u1i2ok6vbcsppccvufdq211s2ia1j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVIKRWcahIROszvmndnZ7B31rPhCvAGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007940080695-c0u1i2ok6vbcsppccvufdq211s2ia1j0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007940080695-5cnrm9m61bln51929c1n47nlju25fp4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mvvmDesign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
